@@ -1,0 +1,20 @@
+0.7
+2020.2
+Nov 14 2025
+19:37:27
+D:/VHDL/pruebas_1/ContadorMod256.vhd,1781735021,vhdl,,,,contadormod256,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/CronometroAll_tb.vhd,1782493169,vhdl,,,,cronometroall_tb,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/DECOD2a4_tb.vhd,1781882189,vhdl,,,,decod2a4_tb,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/PCont10_tb.vhd,1782489779,vhdl,,,,pcont10_tb,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/PConta4Milis_db.vhd,1782491207,vhdl,,,,pconta4milis_db,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/SieteSegmento_tb.vhd,1781879808,vhdl,,,,sietesegmento_tb,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/contadorMod256_tb.vhd,1781735028,vhdl,,,,contadormod256_tb,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sim_1/new/multi4_tb.vhd,1781883413,vhdl,,,,multi4_tb,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/imports/Descargas/mux7seg.vhd,1781716222,vhdl,,,,mux7seg,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/imports/Descargas/tb_mux7seg.vhd,1781716671,vhdl,,,,tb_mux7seg,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/new/CronometroAll.vhd,1782495046,vhdl,,,,cronometroall,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/new/DECOD_2a4.vhd,1781881936,vhdl,,,,decod_2a4,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/new/PCont10.vhd,1782490054,vhdl,,,,pcont10,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/new/PConta4milis.vhd,1782491251,vhdl,,,,pconta4milis,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/new/SieteSegmento.vhd,1781878955,vhdl,,,,sietesegmento,,,,,,,,
+D:/VHDL/pruebas_1/pruebas_1.srcs/sources_1/new/multi4.vhd,1781882816,vhdl,,,,multi4,,,,,,,,

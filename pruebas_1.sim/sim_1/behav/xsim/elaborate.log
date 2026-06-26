@@ -1,0 +1,23 @@
+Vivado Simulator v2025.2
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2025 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/AMDDesignTools/2025.2/Vivado/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot CronometroAll_tb_behav xil_defaultlib.CronometroAll_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture behavioral of entity xil_defaultlib.DECOD_2a4 [decod_2a4_default]
+Compiling architecture behavioral of entity xil_defaultlib.multi4 [multi4_default]
+Compiling architecture behavioral of entity xil_defaultlib.SieteSegmento [sietesegmento_default]
+Compiling architecture behavioral of entity xil_defaultlib.PConta4milis [pconta4milis_default]
+Compiling architecture behavioral of entity xil_defaultlib.PCont10 [pcont10_default]
+Compiling architecture behavioral of entity xil_defaultlib.CronometroAll [cronometroall_default]
+Compiling architecture behavioral of entity xil_defaultlib.cronometroall_tb
+Built simulation snapshot CronometroAll_tb_behav

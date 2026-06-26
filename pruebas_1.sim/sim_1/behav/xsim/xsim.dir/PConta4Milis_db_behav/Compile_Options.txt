@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "PConta4Milis_db_behav" "xil_defaultlib.PConta4Milis_db" -log "elaborate.log" 

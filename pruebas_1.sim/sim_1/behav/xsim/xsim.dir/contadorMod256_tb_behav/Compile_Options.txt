@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "contadorMod256_tb_behav" "xil_defaultlib.contadorMod256_tb" -log "elaborate.log" 
