@@ -4,7 +4,6 @@ Este repositorio contiene el diseño e implementación de un circuito contador d
 
 ## Diagrama del circuito
 
-> Sustituye la siguiente línea por la imagen de tu circuito.
 <img width="833" height="484" alt="image" src="https://github.com/user-attachments/assets/0d17932f-1aee-418f-bb40-f086e0b58481" />
 
 ## Características
